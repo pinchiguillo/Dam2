@@ -5,14 +5,14 @@ La finalidad de este repositorio es conener todo lo necesario para pasar el grad
 
 Ver [horario](resources/horario)
 
-
+Ver [tareas de la semana que viene](GitHubView/tareas.md)
 
 ## Acceso al contenido
 
 Para acceder al contenido de este repositorio existen 3 metodos.
 
 #### GitHub
-Todos los apuntes del curso van a estar dentro de [index](<>) y van a ser accesibles desde GitHub.
+Todos los apuntes del curso van a estar dentro de [index](GitHubView/index.md) y van a ser accesibles desde GitHub.
 
 Adicionalmente ejemplos y demas material puede ser visto tambien desde la web
 
