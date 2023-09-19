@@ -27,4 +27,3 @@ El metodo ideal es clonar el repositorio para asi tener tanto los apuntes como m
 **Todos** podemos y **debemos** subir apuntes. Para hacerlo simplemente se hace commit de los cambios. (Si no se sabe preguntar a **pinchiguillo**).
 
 Finalmente a lo largo del fin de semana (preferiblemente **viernes**) se revisaran y añadiran los cambios a los diferentes metodos de difusion.
-
