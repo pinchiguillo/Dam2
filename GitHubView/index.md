@@ -2,9 +2,9 @@
 
 ## Acceso a Datos
 ### Tema 1 - Ficheros
-[Apuntes](AccesoADatos\Ficheros\apuntes.md)
+[Apuntes](AccesoADatos/Ficheros/apuntes.md)
 
-[Ejemplos](AccesoADatos\Ficheros\ejemplos.md)
+[Ejemplos](AccesoADatos/Ficheros/ejemplos.md)
 
 
 ## EIE
