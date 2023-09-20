@@ -3,7 +3,7 @@
 
 La finalidad de este repositorio es conener todo lo necesario para pasar el grado de **DAM** año 2.
 
-Ver [horario](GitHubView/timetable.md)
+Ver [horario](resources/horario)
 
 Ver [tareas de la semana que viene](GitHubView/tareas.md)
 
