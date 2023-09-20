@@ -46,4 +46,4 @@ print(math.sqrt(16))  # Calcula la raíz cuadrada de 16
 
 ## 7. Ejemplos de codigos simples y buenas practicas
 Aqui os dejo una serie de ejemplos de pequeños scripts de python
-[Ir a Ejemplos](GitHubView/SistemasDeGestionEmpresarial/Python/ejemplos.md)
+[Ir a Ejemplos](ejemplos.md)

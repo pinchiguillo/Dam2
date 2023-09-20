@@ -12,6 +12,6 @@
 ### Tema 1 - ???
 
 ## Sistemas de Gestion Empresarial
-[Matices basicos de python](GitHubView/SistemasDeGestionEmpresarial/Python/basic.md)
+[Matices basicos de python](SistemasDeGestionEmpresarial/Python/basic.md)
 
 ### Tema 1 - ???
