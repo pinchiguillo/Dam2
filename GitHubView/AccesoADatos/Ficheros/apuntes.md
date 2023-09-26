@@ -96,4 +96,5 @@ try (RandomAccessFile raf = new RandomAccessFile("acceso_aleatorio.dat", "rw")) 
 Estos son los conceptos básicos de manejo de ficheros en Java. Cada tipo de fichero tiene su propia utilidad y se elige según los requisitos específicos de tu aplicación.
 
 [Ejemplos practicos](ejemplos.md)
-[Ejercicios Clase](ejercicios_clase.md)
+
+[Ejercicios Clase](ejercicios_idx.md)

@@ -6,6 +6,8 @@
 
 [Ejemplos](AccesoADatos/Ficheros/ejemplos.md)
 
+[Ejercicios Clase](AccesoADatos/Ficheros/ejercicios_idx.md)
+
 
 ## EIE
 
