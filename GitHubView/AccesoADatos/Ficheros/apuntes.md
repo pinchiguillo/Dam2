@@ -1,6 +1,3 @@
-Por supuesto, aquí tienes la hoja de apuntes en formato Markdown (.md) completada:
-
-```markdown
 # Ficheros en Java
 
 ## Ficheros Secuenciales
